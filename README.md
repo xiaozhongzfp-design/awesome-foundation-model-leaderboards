@@ -444,7 +444,7 @@ Also, a leaderboard should be included if only:
 | [SWE-bench-Live](https://swe-bench-live.github.io) | SWE-bench-Live is a live benchmark to evaluate an AI system's ability to complete real-world software engineering tasks. |
 | [SWE-Bench Pro](https://swe-bench-live.github.io) | SWE-Bench Pro is a benchmark to evaluate an AI system's ability for challenging long-horizon software engineering tasks. |
 | [SWE-Effi](https://centre-for-software-excellence.github.io/SWE-Effi) | SWE-Effi is an evaluation framework to evaluate the effectiveness of SWE agents by balancing performance metrics with resource consumption. |
-| [SWE-Model-Arena](https://huggingface.co/spaces/SWE-Arena/SWE-Model-Arena) | SWE-Model-Arena provides a platform for software developers to compare the performance of different FMs on software engineering tasks. |
+| [SWE-Model-Arena](https://github.com/Software-Engineering-Arena/SWE-Model-Arena) | SWE-Model-Arena provides a platform for software developers to compare the performance of different FMs on software engineering tasks. |
 | [SWE-rebench](https://swe-rebench.com) | SWE-rebench is a continuously updated benchmark designed to provide more accurate and reliable evaluations of software engineering LLMs by using real-world tasks from GitHub that are less prone to data contamination. |
 | [Terminal-Bench](https://www.tbench.ai/leaderboard) | Terminal-Bench is a benchmark to measure the capabilities of AI agents in a terminal environment. |
 | [Turing Machine Programming Benchmark](https://mng.quest/leaderboard/ai) | Measures LLMs' ability to solve algorithmic tasks by programming a Turing machine. | 
