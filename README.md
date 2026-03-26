@@ -429,6 +429,13 @@ Also, a leaderboard should be included if only:
 | [ScreenSpot-Pro](https://gui-agent.github.io/grounding-leaderboard) | ScreenSpot-Pro is a benchmark to evaluate the ability of multi-modal large language models (MLLMs) to accurately locate specific GUI elements in complex, high-resolution desktop applications. |
 | [SciCode](https://github.com/scicode-bench/SciCode?tab=readme-ov-file#-leaderboard) | SciCode is a benchmark designed to evaluate language models in generating code to solve realistic scientific research problems. |
 | [Software Engineering Arena](https://github.com/Software-Engineering-Arena) | Software Engineering Arena is an open-source initiative to transparently evaluate and track AI assistants across real-world software engineering tasks. |
+| [SWE-Agent-Arena](https://github.com/Software-Engineering-Arena/SWE-Agent-Arena) | SWE-Agent-Arena compares coding agents pairwise on real software engineering tasks through isolated evaluations and transparent leaderboards. |
+| [SWE-Chatbot-Arena](https://github.com/Software-Engineering-Arena/SWE-Chatbot-Arena) | SWE-Chatbot-Arena compares chatbots pairwise through multi-round evaluations on software engineering tasks. |
+| [SWE-Issue](https://github.com/Software-Engineering-Arena/SWE-Issue) | SWE-Issue tracks AI coding assistants through their GitHub issue activity, including bug reports, feature requests, and discussions. |
+| [SWE-PR](https://github.com/Software-Engineering-Arena/SWE-PR) | SWE-PR tracks AI coding assistants through GitHub pull requests, code reviews, and commits. |
+| [SWE-Release](https://github.com/Software-Engineering-Arena/SWE-Release) | SWE-Release tracks AI coding assistants by release activity, version publishing, and deployment patterns. |
+| [SWE-Team](https://github.com/Software-Engineering-Arena/SWE-Team) | SWE-Team tracks AI coding assistants through team management activities such as membership events and collaboration patterns. |
+| [SWE-Wiki](https://github.com/Software-Engineering-Arena/SWE-Wiki) | SWE-Wiki tracks AI coding assistants through wiki documentation contributions and knowledge base maintenance. |
 | [SolidityBench](https://huggingface.co/spaces/braindao/solbench-leaderboard) | SolidityBench is a benchmark to evaluate and rank the ability of LLMs in generating and auditing smart contracts. |
 | [Spider](https://yale-lily.github.io/spider) | Spider is a benchmark to evaluate the performance of natural language interfaces for cross-domain databases. |
 | [SRE Skills Bench](https://sreskillsbench.com/#leaderboard) | SRE Skills Bench is a benchmark to evaluate the site reliability engineering skills of LLMs. |
